@@ -1,0 +1,2 @@
+[14-Nov-2014 20:59:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hydraulicslofts/public_html/go.php:35) in /home/hydraulicslofts/public_html/go.php on line 36
+[14-Nov-2014 21:00:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hydraulicslofts/public_html/go.php:35) in /home/hydraulicslofts/public_html/go.php on line 36

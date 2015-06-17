@@ -1,0 +1,27 @@
+html{
+ background: rgba(0, 0, 0, 0) url("http://hydraulicslofts.com/wp-content/themes/onetone/images/home-bg02.jpg") repeat scroll left top;
+}
+body {
+ background: rgba(0, 0, 0, 0) url("http://hydraulicslofts.com/wp-content/themes/onetone/images/home-bg02.jpg") repeat scroll left top;
+}
+.navbar {
+
+	background:#201C1C;
+}
+
+.starter-template{
+	padding-top:185px;
+	text-align:center;
+
+}
+
+.apt{
+	list-style-type: none;
+	padding-left:0px;
+}
+a{
+	color:#963 ;
+}
+a:hover{
+color:#963;
+};
